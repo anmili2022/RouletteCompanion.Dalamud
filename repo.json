@@ -1,0 +1,30 @@
+﻿{
+    "Author":  "anmili2022",
+    "Name":  "日随伴侣",
+    "InternalName":  "RouletteCompanion",
+    "AssemblyVersion":  "1.0.0.0",
+    "Description":  "帮助你记录每日随机任务、导出报告，并实时同步到 DungeonLogger。\n\nHelp you to record your daily roulettes, export reports, and sync with DungeonLogger in real time.",
+    "ApplicableVersion":  "any",
+    "Tags":  [
+                 "随机任务",
+                 "指导者",
+                 "roulette",
+                 "mentor",
+                 "plugin"
+             ],
+    "DalamudApiLevel":  15,
+    "LoadRequiredState":  0,
+    "LoadSync":  false,
+    "CanUnloadAsync":  false,
+    "LoadPriority":  0,
+    "Punchline":  "自动记录每日随机任务，包括指导者随机任务。\n\nAuto record your daily roulettes including mentor roulettes.",
+    "AcceptsFeedback":  true,
+    "IsHide":  "False",
+    "IsTestingExclusive":  "False",
+    "IconUrl":  "https://raw.githubusercontent.com/anmili2022/RouletteCompanion.Dalamud/refs/heads/master/images/icon.png",
+    "DownloadCount":  0,
+    "LastUpdate":  "0",
+    "DownloadLinkInstall":  "https://github.com/anmili2022/RouletteCompanion.Dalamud/releases/download/v1.0.0.0/latest.zip",
+    "DownloadLinkTesting":  "https://github.com/anmili2022/RouletteCompanion.Dalamud/releases/download/v1.0.0.0/latest.zip",
+    "DownloadLinkUpdate":  "https://github.com/anmili2022/RouletteCompanion.Dalamud/releases/download/v1.0.0.0/latest.zip"
+}
